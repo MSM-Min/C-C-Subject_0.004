@@ -4,9 +4,6 @@
 #include <iostream>
 
 using namespace std;
-
-
- 
 //----------------------------------------------------------------  
 class Fruit{
 	int no;
